@@ -1,0 +1,19 @@
+{
+  "name": "tech-jobs",
+  "version": "1.0.0",
+  "description": "Fetching Data from NAukri.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Shivam Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.8.0",
+    "xlsx": "^0.18.5"
+  }
+}
